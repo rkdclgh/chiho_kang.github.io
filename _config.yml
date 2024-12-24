@@ -36,7 +36,7 @@ timezone: Asia/Seoul
 author:
   type      : "person"
   name      : Chiho Kang
-  url       : "https://rkdclgh.github.io"
+  url       : "https://chiho_kang.github.io"
   avatar    : # path or url of avatar image (square)
   bio       : 끝없는 지평, 무한한 상상
   email     :
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: rkdclgh/rkdclgh.github.io
+repository: rkdclgh/chiho_kang.github.io
 repository_tree: master
 
 
